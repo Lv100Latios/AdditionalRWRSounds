@@ -1,0 +1,19 @@
+{
+  "name": "AdditionalRWRSounds",
+  "description": "This mod adds additional functionality to the RWR to play additional sounds where the vanilla game doesn't. Currently, this mod only differentiates sounds for a newly detected surface and air threat.\r\n\r\nThe mod works on its own, but it also works in conjunction with the Custom Sounds mod. For Custom Sounds, this mod uses the newContactBlip sound from other addons as the surface contact sound. A newAirContactBlip sound is packaged with the mod, but the mod will likely be updated in the future to allow modders to package their own sounds in a single mod file.\r\n\r\nSpecial thanks to Danku | Funk Master for helping me create this mod by walking me through making my first ever Unity game mod. He made it so developing this mod was really straightforward.",
+  "dll_file": "",
+  "last_edit": 638123482338691052,
+  "pub_id": "",
+  "json_version": "",
+  "version": "1.0.0",
+  "tagline": "RWR",
+  "repository": "",
+  "is_public": false,
+  "unlisted": false,
+  "preview_image": "preview.png",
+  "web_preview_image": "web_preview.png",
+  "dependencies": [],
+  "mod_dependencies": null,
+  "menu_mod": false,
+  "ContentType": 3
+}
