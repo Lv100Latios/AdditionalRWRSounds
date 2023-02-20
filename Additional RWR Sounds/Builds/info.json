@@ -1,0 +1,19 @@
+{
+  "name": "Additional RWR Sounds",
+  "description": "Dev version of my mod.",
+  "dll_file": "AdditionalRWRSounds.dll",
+  "last_edit": 638124128342170489,
+  "pub_id": "",
+  "json_version": "",
+  "version": "",
+  "tagline": "",
+  "repository": "",
+  "is_public": false,
+  "unlisted": false,
+  "preview_image": "",
+  "web_preview_image": "",
+  "dependencies": null,
+  "mod_dependencies": null,
+  "menu_mod": false,
+  "ContentType": 3
+}
